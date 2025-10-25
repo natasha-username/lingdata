@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1295,695</Object>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="GridViewer.MultiTierMode">
+        <Boolean>false</Boolean>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>text@aio2005f</String>
+    </pref>
+    <pref key="TokenizeDialog.DestTier">
+        <String>words@aio2005f</String>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>10258</Long>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Ветка">
+            <Int>75</Int>
+        </pref>
+        <pref key="Слой">
+            <Int>75</Int>
+        </pref>
+        <pref key="Инициалы">
+            <Int>75</Int>
+        </pref>
+        <pref key="Время окончания">
+            <Int>75</Int>
+        </pref>
+        <pref key="Дата создания">
+            <Int>75</Int>
+        </pref>
+        <pref key="Время начала">
+            <Int>75</Int>
+        </pref>
+        <pref key="Отправитель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Получатель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Дата изменения">
+            <Int>75</Int>
+        </pref>
+        <pref key="Комментарий">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefGroup key="TierFonts"/>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Время начала</String>
+        <String>Время окончания</String>
+        <String>Слой</String>
+        <String>Инициалы</String>
+        <String>Комментарий</String>
+        <String>Ветка</String>
+        <String>Отправитель</String>
+        <String>Получатель</String>
+        <String>Дата создания</String>
+        <String>Дата изменения</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>BAS - WebMAUS Basic</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">-7,-7</Object>
+    </pref>
+    <pref key="GridViewer.MultiTierMode.Subdivision">
+        <Boolean>false</Boolean>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>97.00001</Float>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>8546</Long>
+    </pref>
+    <pref key="GridViewer.ColumnBeginTime.Visible">
+        <Boolean>false</Boolean>
+    </pref>
+    <pref key="TokenizeDialog.SourceTier">
+        <String>text@aio2005f</String>
+    </pref>
+    <prefGroup key="BAS - WebMAUS Basic">
+        <pref key="LANGUAGE">
+            <String>deu-DE</String>
+        </pref>
+        <prefGroup key="TierUrl"/>
+        <pref key="SignalParamName">
+            <String>SIGNAL</String>
+        </pref>
+        <pref key="ServiceName">
+            <String>runMAUSBasic</String>
+        </pref>
+        <pref key="TextParamName">
+            <String>TEXT</String>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <pref key="MediaControlRate">
+        <Float>0.8</Float>
+    </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>13588</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>18144</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="text@aio2005f">
+            <Object class="java.awt.Color">90,90,160</Object>
+        </pref>
+        <pref key="text@nag2008f">
+            <Object class="java.awt.Color">90,160,160</Object>
+        </pref>
+        <pref key="gestType@aio2005f">
+            <Object class="java.awt.Color">160,90,90</Object>
+        </pref>
+        <pref key="text@dek2006f">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>text@aio2005f</String>
+        <String>text@nag2008f</String>
+        <String>text@dek2006f</String>
+        <String>words@aio2005f</String>
+        <String>@posaio2005f</String>
+        <String>gestType@aio2005f</String>
+        <String>gestMeaning@aio2005f</String>
+        <String>gestBody@aio2005f</String>
+        <String>gestHead@aio2005f</String>
+        <String>gestHands@aio2005f</String>
+        <String>gestFingers@aio2005f</String>
+        <String>gestLegs@aio2005f</String>
+        <String>gestComments@aio2005f</String>
+    </prefList>
+    <prefGroup key="TierHighlightColors"/>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>1</Int>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Отправитель</String>
+        <String>Получатель</String>
+    </prefList>
+</preferences>
